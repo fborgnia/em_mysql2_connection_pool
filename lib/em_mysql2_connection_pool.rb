@@ -1,6 +1,5 @@
 require 'mysql2'
 require 'mysql2/em'
-require 'debugger'
 
 class EmMysql2ConnectionPool
 
